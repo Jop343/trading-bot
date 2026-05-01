@@ -9,9 +9,8 @@ from ta.trend import EMAIndicator
 from ta.volatility import AverageTrueRange
 
 # ---------------- CONFIG ----------------
-API_KEY = "
-dZe4rCH146MTxqVzFgZ41a"
-API_SECRET = "cxakp_CUzG6zAvTWeWbb7uRXSRb3"
+API_KEY = ""
+API_SECRET = ""
 
 BASE_URL = "https://api.crypto.com/exchange/v1/"
 SYMBOL = "ETH_USDT"
